@@ -1,0 +1,55 @@
+body {
+    background-color: #FAF4B7;
+}
+h1 {
+    color: #354259;
+    font-family: 'Noto Sans', sans-serif;
+}
+.list {
+    color: #354259;
+    font-family: 'Noto Sans', sans-serif;
+}
+.list1 {
+    color: #354259;
+    font-family: 'Noto Sans', sans-serif;
+}
+h3 {
+    color: #354259;
+    font-family: 'Noto Sans', sans-serif;
+}
+.btn {
+    margin-left: 50px;
+    background-color: #F6C6EA;
+    padding: 10px;
+    font-size: 10px;
+    font-style: #354259;
+    border-radius: 10px;
+    text-transform: uppercase;
+    width: 20%;
+    border: groove 5px #F9F9F9;
+    font-family: 'Noto Sans', sans-serif;
+}
+.btn:hover {
+    background-color: #F9F9F9;
+    /* transition-duration: 2s; */
+}
+table {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.kids {
+    align-self: center;
+    padding: 50px;
+    background-color: #F6C6EA;
+;
+}
+
+.img {
+    width: 80%;
+}
